@@ -1,0 +1,155 @@
+
+
+/*Navbar*/
+.container-nav{
+    background-color: #353a40;
+    width: 100%;
+}
+
+.resizing{
+max-width: 13%;
+height: auto;
+}
+
+.textcontainer3{
+    display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+}
+
+.container-nav .containerpadding{
+    padding: 0em 4em;
+}
+
+#Navcolor{
+    color: #309c46; 
+}
+
+
+/*Buenos Aires*/
+
+#carouselExampleSlidesOnly{
+    width: 100%;
+}
+
+.carousel-item{
+    background-color: black;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 600px;
+}
+
+.opacidad{
+    opacity: 0.7;
+}
+
+.cardimg{
+    text-align: end;
+    width: 100%;
+    padding: 15em 10em 3em;
+    opacity: 1;
+}
+
+.card-img-overlay{
+    text-align: end;
+    width: 100%;
+    padding: 20em 5em;
+}
+
+/*Oradores*/
+
+.p1{
+    font-size: 1.2em;
+}
+.titulo{
+    font-size: 2.3em;
+    font-weight: bold ;
+}
+
+.card{
+    width: 23em;
+}
+
+
+
+
+#oradores{
+    margin: 0em 0em 2em;
+}
+
+#oradores img{
+    width: 100% ;
+    height: 350px;
+    padding: 0em;
+    margin: 0em;
+}
+
+
+
+.btn-tickets{
+    color: white;
+    background-color: #29a744;
+}
+
+/*Lugar*/
+
+#lugar{
+    width: 100%;
+}
+
+#lugar img{
+    margin: 0em;
+    width: 100%;
+    height: 100%;
+}
+
+.card-full, .card-custom{
+    width: 100%;
+}
+
+.card-margin{
+    margin: 0em;
+    padding: 0em;
+}
+.card-custom, .card-full{
+    background-color: #353a40;
+    color: white;
+    margin: 0em;
+    height: 100%;
+}
+
+/*FORM*/
+
+form{
+    margin: 0em 12em;
+}
+
+input{
+    margin: 1em 0em;
+}
+
+
+
+
+.btn-enviar{
+    background-color: #96c93e;
+    color: white;
+    width: 25em;
+    margin-bottom: 1em;
+    align-self: center;
+}
+
+
+
+/*FOOTER*/
+footer{
+    background-color: #1f5271;
+    color: white;
+}
+
+footer .containerpadding{
+ padding: 1em;    
+}
+
